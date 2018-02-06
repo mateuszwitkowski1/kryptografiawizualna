@@ -1,0 +1,13 @@
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\bin\Debug\KryptografiaWiz.exe.config
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\KryptografiaWiz.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\MainWindow.baml
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\MainWindow.g.cs
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\App.g.cs
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\KryptografiaWiz_MarkupCompile.cache
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\KryptografiaWiz.g.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\KryptografiaWiz.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\KryptografiaWiz.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\bin\Debug\KryptografiaWiz.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\bin\Debug\KryptografiaWiz.pdb
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\KryptografiaWiz.exe
+c:\users\mateusz\documents\visual studio 2013\Projects\KryptografiaWiz\KryptografiaWiz\obj\Debug\KryptografiaWiz.pdb
